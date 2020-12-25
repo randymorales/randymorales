@@ -37,7 +37,7 @@
 <a href="https://twitter.com/randymoralesg" target="blank"><img align="center" src="images/twitter.svg" alt="randymoralesg" height="30" width="60" /></a>
 <a href="https://linkedin.com/in/randymoralesg" target="blank"><img align="center" src="images/linkedin-icon-2.svg" alt="randymoralesg" height="30" width="60" /></a>
 <a href="https://medium.com/@randymoralesg" target="blank"><img align="center" src="images/medium.svg" alt="@randymoralesg" height="30" width="60" /></a>
-<a href="/https://randymorales.dev/rss-en.xml" target="blank"><img align="center" src="images/gas-mask.png" alt="https://randymorales.dev/rss-en.xml" height="30" width="45" /></a>
+<a href="https://randymorales.dev/rss-en.xml" target="blank"><img align="center" src="images/gas-mask.png" alt="https://randymorales.dev/rss-en.xml" height="30" width="45" /></a>
 </p>
 
 </br>
