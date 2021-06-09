@@ -25,8 +25,6 @@ I write about things I am familiar with, things that I face at work, and things 
 <h3 align="left">📕 Latest Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Adding Comments to a Markdown Blog (via Utterances)](https://randymorales.dev/blog/adding-comments-to-my-blog)
-
-- [Adding google link for testing markdown format](https://www.google.com)
 <!-- BLOG-POST-LIST:END -->
 
 
