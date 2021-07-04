@@ -25,7 +25,8 @@ I write about things I am familiar with, things that I face at work, and things 
 <h3 align="left">📕 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Comments to a Markdown Blog (via Utterances)](https://randymorales.dev/blog/adding-comments-to-my-blog)
+- [Adding Code Highlighting to a NextJS Blog with Prism](https://randymorales.dev/blog/adding-code-highlighting-to-nextjs)
+- [Adding Comments to a NextJS Blog](https://randymorales.dev/blog/adding-comments-to-my-blog)
 <!-- BLOG-POST-LIST:END -->
 
 
