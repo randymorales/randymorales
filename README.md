@@ -12,9 +12,9 @@
 
 I write about things I am familiar with, things that I face at work, and things that I am learning. You will find them on my personal website [randymorales.dev](https://randymorales.dev) 📝.
 
-🔭 I’m currently working on [Aruba Networks](https://www.arubanetworks.com/products/switches/)
+🔭 I’m currently working at [Aruba Networks](https://www.arubanetworks.com/products/switches/)
 
-🌱 I’m currently learning **JavaScript, Advanced Go, Software Architecture**
+🌱 I’m currently learning **JavaScript, Advanced Go, Software Architecture, Italian**
 
 💡 I’m looking to collaborate on **open source projects**
 
