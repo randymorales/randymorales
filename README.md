@@ -1,9 +1,3 @@
-<p>
-  <a href="https://randymorales.dev">
-    <img width="350" align='right' src="images/logo.png">
-  </a>
-</p>
-
 <h1 align="left">Hi
   <a href="https://www.randymorales.dev">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
