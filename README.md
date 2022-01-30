@@ -1,6 +1,6 @@
 <p>
   <a href="https://randymorales.dev">
-    <img width="410" align='right' src="images/gas-mask.png">
+    <img width="350" align='right' src="images/logo.png">
   </a>
 </p>
 
@@ -39,5 +39,5 @@ I write about things I am familiar with, things that I face at work, and things 
 <a href="https://twitter.com/randymoralesg"><img align="center" src="images/twitter.svg" alt="randymoralesg" height="30" width="60" /></a>
 <a href="https://linkedin.com/in/randymoralesg"><img align="center" src="images/linkedin-icon-2.svg" alt="randymoralesg" height="30" width="60" /></a>
 <a href="https://medium.com/@randymoralesg"><img align="center" src="images/medium.svg" alt="@randymoralesg" height="30" width="60" /></a>
-<a href="https://randymorales.dev/rss-en.xml"><img align="center" src="images/gas-mask.png" alt="https://randymorales.dev/rss-en.xml" height="30" width="45" /></a>
+<a href="https://randymorales.dev/rss-en.xml"><img align="center" src="images/logo.png" alt="https://randymorales.dev/rss-en.xml" height="40" width="40" /></a>
 </p>
