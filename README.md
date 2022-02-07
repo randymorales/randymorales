@@ -12,7 +12,7 @@ I write about things I am familiar with, things that I face at work, and things 
 
 💡 I’m looking to collaborate on **open source projects**
 
-⚡ Fun fact: I like videogames 🎮, cycling 🚴, being active ⚽️, read 📖
+⚡ Fun fact: I like videogames 🎮, cycling 🚴, being active 🏋️‍♂️, read 📖
 
 </br>
 
