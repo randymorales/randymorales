@@ -4,15 +4,13 @@
   </a>, I'm Randy
 </h1>
 
-I write about things I am familiar with, things that I face at work, and things that I am learning. You will find them on my personal website [randymorales.dev](https://randymorales.dev) 📝.
+I write about things I am familiar with and things that I am learning. You will find them on my personal website [randymorales.dev](https://randymorales.dev) 📝.
 
-🔭 I’m currently working at [Aruba Networks](https://www.arubanetworks.com/products/switches/)
+🔭 I’ve worked at [Aruba Networks](https://www.arubanetworks.com/products/switches/)
 
-🌱 I’m currently learning **JavaScript, Advanced Go, Software Architecture, Italian**
+🌱 I’m currently learning **Cloud, Advanced Go, Software Architecture, Javascript, Italian**
 
-💡 I’m looking to collaborate on **open source projects**
-
-⚡ Fun fact: I like videogames 🎮, cycling 🚴, being active 🏋️‍♂️, read 📖
+💡 I’m looking to create high-impact apps and projects.
 
 </br>
 
@@ -28,10 +26,8 @@ I write about things I am familiar with, things that I face at work, and things 
 </br>
 
 <h3 align="left">🗣 Connect with me</h3>
-</br>
 <p align="center">
 <a href="https://twitter.com/randymoralesg"><img align="center" src="images/twitter.svg" alt="randymoralesg" height="30" width="60" /></a>
 <a href="https://linkedin.com/in/randymoralesg"><img align="center" src="images/linkedin-icon-2.svg" alt="randymoralesg" height="30" width="60" /></a>
-<a href="https://medium.com/@randymoralesg"><img align="center" src="images/medium.svg" alt="@randymoralesg" height="30" width="60" /></a>
-<a href="https://randymorales.dev/rss-en.xml"><img align="center" src="images/logo.png" alt="https://randymorales.dev/rss-en.xml" height="40" width="40" /></a>
+<a href="https://randymorales.dev/rss.xml"><img align="center" src="images/logo.png" alt="https://randymorales.dev/rss.xml" height="40" width="40" /></a>
 </p>
