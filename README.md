@@ -6,9 +6,10 @@
 
 I write about things I am familiar with and things that I am learning. You will find them on my personal website [randymorales.dev](https://randymorales.dev) 📝.
 
-🔭 I’ve worked at [Aruba Networks](https://www.arubanetworks.com/products/switches/)
+💻 I’ve worked at [Aruba Networks](https://www.arubanetworks.com/products/switches/)
+🏗️ Now I’m working at [Huli](https://www.huli.io)
 
-🌱 I’m currently learning **Cloud, Advanced Go, Software Architecture, Javascript, Italian**
+🌱 I’m currently learning **Cloud, Advanced Go, Javascript, Software Architecture**
 
 💡 I’m looking to create high-impact apps and projects.
 
